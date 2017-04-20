@@ -1,0 +1,38 @@
+/*
+Theme Name: Prolog
+Theme URI: http://themeum.com/
+Author: Themeum
+Author URI: http://themeum.com/
+Description: Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, blue, green, pink, purple, dark, right-sidebar, two-columns, responsive-layout
+Text Domain: THEMEUM
+*/
+
+
+@import url('css/bootstrap.min.css');
+@import url('css/prettyPhoto.css');
+@import url('css/font-awesome.min.css');
+@import url('css/main.css');
+
+.gallery-caption{
+
+}
+
+.bypostauthor{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

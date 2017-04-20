@@ -1,0 +1,72 @@
+/*General*/
+input[type="submit"],
+.subtitle,
+.single-post .post-navigation,
+.widget .nav,
+.book_wrapper a.btn-download,
+.btn-commom,
+.profile-tab ul.nav-tabs>li>a:hover,
+.profile-tab ul.nav-tabs>li.active>a,
+.profile-tab ul.nav-tabs>li.active>a:hover,
+.profile-tab ul.nav-tabs>li.active>a:focus,
+.pagination>.active>a, .pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:focus,
+.pagination>li>a:hover,
+.pagination>li>span:hover,
+.pagination>li>a:focus,
+.pagination>li>span:focus,
+.widget h3.widget_title,
+.single-post .post-navigation .post-controller .previous-post a,
+.single-post .post-navigation .post-controller .next-post a,
+.post-content.media .post-format i,
+#searchform .btn-search,
+#blog-gallery-slider .carousel-control.left,
+#blog-gallery-slider .carousel-control.right {
+	background: #eb6525;
+}
+
+.navbar-main .dropdown-menu {
+	border-top: 3px solid #eb6525;
+}
+
+.widget ul li a:hover,
+blockquote {
+	border-color: #eb6525;
+}
+
+.calender-date,
+#about-me .progress-bar,
+.navbar-default .navbar-toggle .icon-bar,
+.subtitle,
+.format-link .entry-header{
+	background-color:#eb6525;
+}
+
+a, #mobile-menu ul li:hover > a,
+#mobile-menu ul li.active > a, span.badge,
+.comingsoon .social-share ul li a:hover,
+#comingsoon-countdown .countdown-period,
+.navbar-main .dropdown-menu > li:hover > a,
+.navbar-main .dropdown-menu > li.active > a,
+.navbar-main .dropdown-menu > li:focus > a,
+.navbar-main .dropdown-menu > li.current-menu-item > a,
+.navbar-main .dropdown-menu > li.current-menu-ancestor > a,
+.widget .nav > li.active > a, .widget .nav > li:hover > a,
+.widget.widget_mc4wp_widget .button i,
+.navbar-main .dropdown-menu>li>a:hover,
+.navbar-main .dropdown-menu>li>a:focus,
+.widget.widget_mc4wp_widget h3:before,
+.widget .tagcloud a:hover,
+.widget caption, .widget thead th,
+.footer-menu >li >a:hover,
+.entry-link h4,
+#navigation .navbar-main > li.current-menu-item > a,
+#navigation .navbar-main > li.current-menu-ancestor > a,
+#navigation .navbar-main > li.current-menu-parent > a,
+#navigation .navbar-main > li > a:hover,
+.post-content.media h2.entry-title a:hover{
+	color:#eb6525;
+}
